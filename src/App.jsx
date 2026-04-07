@@ -17,7 +17,7 @@ const QUESTIONS = [
   { id: 12, question: "Hangi ilde kaza yapmadım?", options: ["İzmir", "Ankara", "Zonguldak", "Kocaeli"], correct: "Kocaeli" },
   { id: 13, question: "İlk üniversitem hangisi?", options: ["9Eylül", "Bülent ecevit", "Ege", "Anadolu"], correct: "Ege" },
   { id: 14, question: "İlk bilgisayarımı kim verdi?", options: ["Komşum", "Patronum", "Resim öğretmenim", "Arkadaşım"], correct: "Resim öğretmenim" },
-  { id: 15, question: "Hangisine katılmadım?", options: ["Ülkü ocakları", "Ak gençlik", "TİP", "CGK"], correct: "CGK" },
+  { id: 15, question: "Hangisine katılmadım?", options: ["Ülkü ocakları", "Ak gençlik", "TKP", "CGK"], correct: "CGK" },
   { id: 16, question: "İlk hayvanımın adı?", options: ["Azat", "Cabbar", "Gölge", "Şase"], correct: "Azat" },
   { id: 17, question: "Hangisi yazdığım kitabın adıdır?", options: ["Delinin delisi", "Aydaki ağaç", "Şarap sorgusu", "Her zaman yalnız"], correct: "Şarap sorgusu" },
   { id: 18, question: "Hangi şekilde kaza yapmadım?", options: ["Uyuya kalarak", "Takla atarak", "Ağaca çarparak", "Dereye düşerek"], correct: "Dereye düşerek" },
